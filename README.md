@@ -11,7 +11,7 @@
             padding: 50px;
         }
         h1 {
-            color: #ff1493;
+            color: #ff0000;
             font-size: 3em;
         }
         p {
@@ -44,6 +44,7 @@
                     "Te amo mucho",
                     "Quiero abrazarte",
                     "Recuerda que 520 ❤️",
+		    "Y me arrepentire de no poder ser alguien a quien tu estes feliz, enverdad te queria en mi futuro",
 	  "Enverdad eres todo para mi",
 	  "Me arrepiento por no abrazarte",
                 ],
