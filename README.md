@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Para mi Novia Merly</title>
+    <title>Mi princesa </title>
     <style>
         body {
             background-color: #ffcccb;
@@ -40,10 +40,12 @@
             var typed = new Typed('#mensaje', {
                 strings: [
                     "Solo quiero que sepas que te amo mucho y no puedo dejar de amarte",
-                    "Eres mi todo",
+                    "Quiero estar contigo",
                     "Te amo mucho",
-                    "Eres única",
-                    "Gracias por existir ❤️"
+                    "Quiero abrazarte",
+                    "Recuerda que 520 ❤️",
+	  "Enverdad eres todo para mi",
+	  "Me arrepiento por no abrazarte",
                 ],
                 typeSpeed: 50,
                 loop: true,
