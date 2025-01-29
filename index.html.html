@@ -5,7 +5,7 @@
     <title>Mi princesa </title>
     <style>
         body {
-            background-color: #ffcccb;
+            background-color: #adff2f;
             text-align: center;
             font-family: 'Arial', sans-serif;
             padding: 50px;
