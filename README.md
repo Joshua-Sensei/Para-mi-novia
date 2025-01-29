@@ -34,10 +34,10 @@
     </style>
 </head>
 <body>
-    <h1>¡Para mi Amorcito Merly!</h1>
+    <h1>¡Para mi Princesa Luz Merly!</h1>
     <p id="mensaje"></p> <!-- Aquí se mostrará el mensaje con el efecto de escritura -->
     <img src="https://i.imgur.com/2p2sfMH.jpeg" alt="Foto de nosotros">
-    <p class="fecha">01/01/24</p>
+    <p class="fecha">❤️01/01/24❤️</p>
     <!-- Cargar Typed.js desde un CDN -->
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
     <script>
