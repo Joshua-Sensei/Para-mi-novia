@@ -5,7 +5,7 @@
     <title>Mi princesa </title>
     <style>
         body {
-            background-color: #adff2f;
+            background: radial-gradient(circle, #adff2f, #f1c40f, #7cfc00);
             text-align: center;
             font-family: 'Arial', sans-serif;
             padding: 50px;
