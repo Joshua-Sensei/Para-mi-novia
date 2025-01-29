@@ -24,6 +24,12 @@
             width: 200px;
             height: 200px;
             margin-top: 20px;
+	}
+        .fecha {
+            font-size: 2em; 
+            color: #800080; 
+            margin-top: 10px;
+            font-weight: 900; 
         }
     </style>
 </head>
@@ -31,7 +37,7 @@
     <h1>¡Para mi Amorcito Merly!</h1>
     <p id="mensaje"></p> <!-- Aquí se mostrará el mensaje con el efecto de escritura -->
     <img src="https://i.imgur.com/2p2sfMH.jpeg" alt="Foto de nosotros">
-
+    <p class="fecha">01/01/24</p>
     <!-- Cargar Typed.js desde un CDN -->
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
     <script>
@@ -48,7 +54,7 @@
 	  "Enverdad eres todo para mi",
 	  "Me arrepiento por no abrazarte",
                 ],
-                typeSpeed: 50,
+                typeSpeed: 80,
                 loop: true,
                 startDelay: 1000, // Espera 1 segundo antes de empezar
                 showCursor: true, // Muestra un cursor parpadeante
